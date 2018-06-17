@@ -53,8 +53,4 @@ int main()
     Palindrome(input);
 
     return 0;
-    // P.S. I didn't read the whole question properly so my Palindrome function technically doesn't return a bool
-    // but I realised too late and am hoping you'll be lenient with the grading. Life is stressful right now
-    // and I didn't have time to change it. I'm proud of the function I wrote and I will proudly
-    // go down with it.
 }
