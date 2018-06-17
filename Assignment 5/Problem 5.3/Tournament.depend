@@ -1,0 +1,34 @@
+# depslib dependency file v1.0
+1508680799 source:d:\users\maverick\documents\university\school\modules\labs\cs\object oriented programming lab\assignments\assignment 5\problem 5.2\tournament\main.cpp
+	<iostream>
+	"Tournament.h"
+
+1508681466 d:\users\maverick\documents\university\school\modules\labs\cs\object oriented programming lab\assignments\assignment 5\problem 5.2\tournament\tournament.h
+	<iostream>
+
+1508694297 source:d:\users\maverick\documents\university\school\modules\labs\cs\object oriented programming lab\assignments\assignment 5\problem 5.2\tournament\testtournamentmember.cpp
+	<iostream>
+	"TournamentMember.h"
+
+1508694472 d:\users\maverick\documents\university\school\modules\labs\cs\object oriented programming lab\assignments\assignment 5\problem 5.2\tournament\tournamentmember.h
+	<iostream>
+	<cstring>
+
+1508693869 source:d:\users\maverick\documents\university\school\modules\labs\cs\object oriented programming lab\assignments\assignment 5\problem 5.2\tournament\tournamentmember.cpp
+	<cstring>
+	<iostream>
+	"TournamentMember.h"
+
+1508812103 source:d:\users\maverick\documents\university\school\modules\labs\cs\object oriented programming lab\assignments\assignment 5\problem 5.3\testtournamentmember.cpp
+	<iostream>
+	"TournamentMember.h"
+
+1508812167 d:\users\maverick\documents\university\school\modules\labs\cs\object oriented programming lab\assignments\assignment 5\problem 5.3\tournamentmember.h
+	<iostream>
+	<cstring>
+
+1508811248 source:d:\users\maverick\documents\university\school\modules\labs\cs\object oriented programming lab\assignments\assignment 5\problem 5.3\tournamentmember.cpp
+	<cstring>
+	<iostream>
+	"TournamentMember.h"
+

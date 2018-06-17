@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1508812624 source:d:\users\maverick\documents\university\school\modules\labs\cs\object oriented programming lab\assignments\assignment 5\problem 5.5\fractions\fraction.cpp
+	<iostream>
+	"fraction.h"
+
+1508812567 d:\users\maverick\documents\university\school\modules\labs\cs\object oriented programming lab\assignments\assignment 5\problem 5.5\fractions\fraction.h
+
+1508812567 source:d:\users\maverick\documents\university\school\modules\labs\cs\object oriented programming lab\assignments\assignment 5\problem 5.5\fractions\testfraction.cpp
+	<iostream>
+	"fraction.h"
+

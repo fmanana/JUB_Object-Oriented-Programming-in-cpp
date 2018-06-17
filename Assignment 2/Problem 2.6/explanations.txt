@@ -1,0 +1,8 @@
+a) Error message says 'string', 'cout', 'endl' and other functions were not declared in the scope.
+	This means that each function in the 'std' namespace would need to be declared
+	before its use, i.e. 'std::cout'.
+   'using namesapce std;' is a declaration for every function in the 'std' namespace.
+
+b) Removing the 'Critter ::' prefix results in a declaration error where the variables in the
+functions that need to be changed are undeclared as the class 'Critter', in which these variables
+have been defined, has been removed from the declaration of the function.

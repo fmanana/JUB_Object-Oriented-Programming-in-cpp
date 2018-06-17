@@ -1,0 +1,46 @@
+# depslib dependency file v1.0
+1508888997 source:d:\users\maverick\documents\university\school\modules\labs\cs\object oriented programming lab\assignments\assignment 6\problem 6.4\area.cpp
+	<iostream>
+	<cstring>
+	"Area.h"
+
+1508888997 d:\users\maverick\documents\university\school\modules\labs\cs\object oriented programming lab\assignments\assignment 6\problem 6.4\area.h
+
+1508888997 source:d:\users\maverick\documents\university\school\modules\labs\cs\object oriented programming lab\assignments\assignment 6\problem 6.4\circle.cpp
+	<iostream>
+	"Circle.h"
+
+1508888997 d:\users\maverick\documents\university\school\modules\labs\cs\object oriented programming lab\assignments\assignment 6\problem 6.4\circle.h
+	"Area.h"
+
+1508888997 source:d:\users\maverick\documents\university\school\modules\labs\cs\object oriented programming lab\assignments\assignment 6\problem 6.4\rectangle.cpp
+	<iostream>
+	"Rectangle.h"
+
+1508888997 d:\users\maverick\documents\university\school\modules\labs\cs\object oriented programming lab\assignments\assignment 6\problem 6.4\rectangle.h
+	"Area.h"
+
+1508888997 source:d:\users\maverick\documents\university\school\modules\labs\cs\object oriented programming lab\assignments\assignment 6\problem 6.4\ring.cpp
+	<iostream>
+	"Ring.h"
+
+1508888997 d:\users\maverick\documents\university\school\modules\labs\cs\object oriented programming lab\assignments\assignment 6\problem 6.4\ring.h
+	"Circle.h"
+
+1508792784 source:d:\users\maverick\documents\university\school\modules\labs\cs\object oriented programming lab\assignments\assignment 6\problem 6.4\square.cpp
+	<iostream>
+	"Square.h"
+
+1508888790 d:\users\maverick\documents\university\school\modules\labs\cs\object oriented programming lab\assignments\assignment 6\problem 6.4\square.h
+	"Rectangle.h"
+
+1508891886 source:d:\users\maverick\documents\university\school\modules\labs\cs\object oriented programming lab\assignments\assignment 6\problem 6.4\testvirtual.cpp
+	<iostream>
+	<ctime>
+	<cstdlib>
+	"Area.h"
+	"Circle.h"
+	"Ring.h"
+	"Rectangle.h"
+	"Square.h"
+

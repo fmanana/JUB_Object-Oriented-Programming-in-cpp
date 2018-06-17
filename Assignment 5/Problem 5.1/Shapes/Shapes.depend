@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1508427444 source:d:\users\maverick\documents\university\school\modules\labs\cs\object oriented programming lab\assignments\assignment 5\problem 5.1\shapes\main.cpp
+	<iostream>
+	"Shapes.h"
+
+1508428248 d:\users\maverick\documents\university\school\modules\labs\cs\object oriented programming lab\assignments\assignment 5\problem 5.1\shapes\shapes.h
+	<string>
+
+1508428253 source:d:\users\maverick\documents\university\school\modules\labs\cs\object oriented programming lab\assignments\assignment 5\problem 5.1\shapes\shapes.cpp
+	<iostream>
+	<math.h>
+	"Shapes.h"
+

@@ -1,0 +1,43 @@
+# depslib dependency file v1.0
+1365091736 source:d:\users\maverick\documents\university\school\modules\labs\cs\object oriented programming lab\assignments\assignment 6\problem 6.3\a6\a6_polymorphism\area.cpp
+	<iostream>
+	<cstring>
+	"Area.h"
+
+1508888997 d:\users\maverick\documents\university\school\modules\labs\cs\object oriented programming lab\assignments\assignment 6\problem 6.3\a6\a6_polymorphism\area.h
+
+1508888136 source:d:\users\maverick\documents\university\school\modules\labs\cs\object oriented programming lab\assignments\assignment 6\problem 6.3\a6\a6_polymorphism\circle.cpp
+	<iostream>
+	"Circle.h"
+
+1508887597 d:\users\maverick\documents\university\school\modules\labs\cs\object oriented programming lab\assignments\assignment 6\problem 6.3\a6\a6_polymorphism\circle.h
+	"Area.h"
+
+1508887637 source:d:\users\maverick\documents\university\school\modules\labs\cs\object oriented programming lab\assignments\assignment 6\problem 6.3\a6\a6_polymorphism\rectangle.cpp
+	<iostream>
+	"Rectangle.h"
+
+1508888997 d:\users\maverick\documents\university\school\modules\labs\cs\object oriented programming lab\assignments\assignment 6\problem 6.3\a6\a6_polymorphism\rectangle.h
+	"Area.h"
+
+1508887707 source:d:\users\maverick\documents\university\school\modules\labs\cs\object oriented programming lab\assignments\assignment 6\problem 6.3\a6\a6_polymorphism\ring.cpp
+	<iostream>
+	"Ring.h"
+
+1508887697 d:\users\maverick\documents\university\school\modules\labs\cs\object oriented programming lab\assignments\assignment 6\problem 6.3\a6\a6_polymorphism\ring.h
+	"Circle.h"
+
+1508888092 source:d:\users\maverick\documents\university\school\modules\labs\cs\object oriented programming lab\assignments\assignment 6\problem 6.3\a6\a6_polymorphism\testvirtual.cpp
+	<iostream>
+	"Area.h"
+	"Circle.h"
+	"Ring.h"
+	"Rectangle.h"
+
+1508792784 source:d:\users\maverick\documents\university\school\modules\labs\cs\object oriented programming lab\assignments\assignment 6\problem 6.3\a6\a6_polymorphism\square.cpp
+	<iostream>
+	"Square.h"
+
+1508888790 d:\users\maverick\documents\university\school\modules\labs\cs\object oriented programming lab\assignments\assignment 6\problem 6.3\a6\a6_polymorphism\square.h
+	"Rectangle.h"
+
