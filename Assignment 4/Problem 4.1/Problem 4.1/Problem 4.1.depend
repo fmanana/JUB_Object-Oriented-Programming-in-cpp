@@ -1,8 +1,0 @@
-# depslib dependency file v1.0
-1507911555 source:d:\users\maverick\documents\university\work\modules\labs\cs\object oriented programming lab\assignments\assingment 4\problem 4.1\problem 4.1\testbox.cpp
-	<iostream>
-	"Box.h"
-
-1507911453 d:\users\maverick\documents\university\work\modules\labs\cs\object oriented programming lab\assignments\assingment 4\problem 4.1\problem 4.1\box.h
-	<iostream>
-
